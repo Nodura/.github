@@ -1,6 +1,6 @@
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="../assets/nodura-darkmode.png">
-    <img alt="Nodura Logo" src="../assets/nodura-lightmode.png" width="auto" height="120">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nodura/.github/main/assets/nodura-darkmode.png">
+    <img alt="Nodura Logo" src="https://raw.githubusercontent.com/Nodura/.github/main/assets/nodura-lightmode.png" width="auto" height="120">
 </picture>
 
 Nodura is a newly founded blockchain technology firm. We are committed to developing innovative solutions that leverage the power of blockchain technology to drive social impact and economic growth. Our team is dedicated to creating cutting-edge software that is secure, scalable, and user-friendly.
